@@ -1,2 +1,1 @@
-# holbertonschool-softy-pinko-docker
-project
+# holbertonschool-softy-pinko-docker# 
